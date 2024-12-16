@@ -66,8 +66,10 @@ The dataset used in this study contains a multidimensional view of traffic behav
 ---
 
 ## **Dashboard overview**
+![Dashboard 1](https://github.com/user-attachments/assets/1f52442e-893f-4aa8-9eac-519b3550aa0e)
+![Dashboard 2](https://github.com/user-attachments/assets/69d4616a-97e9-4fda-b691-96a8a44daf40)
 
-
+The dashboard we created on ElasticSearch via Kibana provides a comprehensive view of key transportation metrics, including energy consumption, vehicle performance, weather impact, economic conditions, and traffic patterns. It features actionable insights such as monitoring energy efficiency through a gauge chart, analyzing speed and traffic density correlations, understanding the impact of weather via a treemap, and visualizing vehicle type distribution with a pie chart. Geographical insights are presented through word clouds and bar charts, highlighting city-specific trends, while time-based traffic analysis reveals peak-hour patterns for better scheduling. These metrics collectively enable data-driven strategies for optimizing transportation operations.
 
 ---
 
